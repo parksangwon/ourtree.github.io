@@ -1,4 +1,4 @@
-title: Sangwon.park
+title: Sangwon Park
 email: ourtree4@naver.com
 description: > # this means to ignore newlines until "baseurl:"
   개발 블로그
@@ -7,7 +7,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
-author: 박상원 # add your name
+author: Sangwon Park # add your name
 author-pic: sangwon-face.jpg
 about-author: #
 
