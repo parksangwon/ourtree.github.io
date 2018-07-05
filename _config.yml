@@ -9,7 +9,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Author settings
 author: 박상원 # add your name
 author-pic: #adam-face.jpg
-about-author:
+about-author: #
 
 # Contact links
 email: # Add your Email address
@@ -26,7 +26,7 @@ pinterest: # Add your Pinterest handle
 mailchimp: # Add your MailChimp form identifier.
 
 # Disqus
-discus_identifier: mr-sangwon # Add your discus identifier
+discus_identifier: mr-brown # Add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
